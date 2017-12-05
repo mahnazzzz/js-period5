@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.head {
+  color:steelblue;
+  background-color: aliceblue;
+  margin: 0;
+  margin-top:10px;
+  padding: 5px;
+  padding-top: 0px;
+  width: 150px;
+  border: 2px rgb(95, 142, 189) solid;
+  border-radius: 5px;
+}
+.head h2 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.head h1 {
+  text-align: center;
+  margin: 5px;
+}
+
+
+.counter {
+  display: inline-block;
+  min-width:35px;
+  margin-right:5px;
+  margin-left:5px;
+  text-align: right;
+}
